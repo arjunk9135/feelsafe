@@ -1,0 +1,68 @@
+#access {
+position: static;
+text-align: center;
+left: 100px;
+bottom: -30px;
+
+
+}
+
+#heading1 {
+    font-family:"Arial", Helvetica, sans-serif;
+    color:rgb(25, 187, 52);
+    position: sticky;
+    text-align: center;
+    top: 20px;
+}
+
+#mainpic {
+  
+  padding-top: 60%;
+  padding-bottom: 12px;
+  width: 100% ;
+  background: url('https://assets.khojdeal.com/cdn/uploads/2021/10/06155946/Best-Safety-Locker-For-Home-Office-in-India.jpg') no-repeat center;
+  background-size: contain;
+  display: block;
+  position: relative;
+  top:10px;
+  
+  
+  
+    
+}
+#form_text {
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+body {
+    background-color: black;
+}
+nav {
+    
+    width: 100%;
+    background-color: rgb(29, 119, 48);
+    overflow: auto;
+}
+
+li {
+    display: inline;
+    color: white;
+    
+}
+a {
+    color: white;
+    float: left;
+  padding: 12px 12px 12px 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  width: 20%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; 
+}
+
+a:hover {
+    background-color: rgb(10, 66, 8);
+    margin: 0px;
+    font-size: 16px;
+
+  }
